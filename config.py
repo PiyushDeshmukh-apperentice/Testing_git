@@ -1,3 +1,3 @@
 print("Config.py")
-print("version 2 updated")
+print("version 3")
 print("New version")
